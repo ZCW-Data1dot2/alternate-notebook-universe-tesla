@@ -1,0 +1,49 @@
+Rodeo IDE:
+
+Rodeo IDE Software: https://rodeo.yhat.com/
+
+Interview with founder, Greg Lamp: https://venturebeat.com/2015/04/23/yhat-develops-rodeo-a-python-ide-for-data-science/
+
+Press release: https://www.techleer.com/articles/375-rodeo-a-data-science-ide-for-python/
+
+Contributors to Rodeo IDE on Github: https://github.com/yhat/rodeo/graphs/contributors
+
+The Pros and Cons of Using Jupyter Notebooks as Your Editor for Data Science Work: https://medium.com/better-programming/pros-and-cons-for-jupyter-notebooks-as-your-editor-for-data-science-work-tip-pycharm-is-probably-40e88f7827cb
+
+Yhat acquired by Alteryx: https://techcrunch.com/2017/09/12/alteryx-promote-puts-data-science-to-work-across-the-company/
+
+Comparison of Rodeo to other IDE’s: https://analyticsindiamag.com/5-popular-python-open-source-ides-for-data-science-enthusiasts/
+#:~:text=Rodeo%20is%20an%20open%2Dsourced,syntax%20highlighting%20and%20Ipython%20support.
+
+Quora commentary: https://www.quora.com/What-are-the-pros-and-cons-of-using-Jupyter-Notebook-in-Python-What-did-you-like-and-what-is-didn-t-you-like-when-you-used-it-for-analysis
+
+
+
+Repl.it:
+
+Repl.it software: https://repl.it/
+
+Online Reddit Repl.it community: https://www.reddit.com/r/replit/
+
+Repl.it Tutorial: https://docs.repl.it/misc/quick-start
+
+Online annual “Language Jam” competition: https://blog.repl.it/langjam
+
+Video demonstrating Repl.it’s “Multiplayer” feature: https://www.youtube.com/watch?v=ZZ3yPLNeiqs
+
+Article about one of the creators of Repl.it (Amjad Masad): https://amasad.me/about
+
+Article highlighting the capabilities of Repl.it: https://techcrunch.com/2018/03/15/repl-it-lets-you-program-in-your-browser/
+
+
+
+Colab:
+
+Colab intro: https://colab.research.google.com/notebooks/intro.ipynb
+		https://www.youtube.com/watch?v=inN8seMm7UI
+
+TPU: https://en.wikipedia.org/wiki/Tensor_Processing_Unit
+
+Jupyter image: https://commons.wikimedia.org/wiki/File:Jupyter_logo.svg
+
+Google logo: https://money.cnn.com/gallery/technology/2015/09/01/google-logos/4.ht
